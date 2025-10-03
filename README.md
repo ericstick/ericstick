@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Erik Antonyan
 
-![Header](https://raw.githubusercontent.com/USERNAME/USERNAME/main/header-image.png)  
-
 I'm a **Full-Stack Developer** from Armenia specializing in **backend and frontend development**. Passionate about building scalable web applications, learning new technologies, and contributing to open-source projects.  
 
 ---
@@ -12,7 +10,7 @@ I'm a **Full-Stack Developer** from Armenia specializing in **backend and fronte
 - 💻 Currently working with **Java Spring Boot**, **NestJS**, **ReactJS**, **NextJS**  
 - 🔒 Interested in **Web Security** and **System Architecture**  
 - 🎯 Always learning new frameworks, libraries, and tools  
-- 📫 Reach me at: [email@example.com](mailto:email@example.com)  
+- 📫 Reach me at: [antonyaneric@gmail.com](mailto:antonyaneric@gmail.com)  
 
 ---
 
